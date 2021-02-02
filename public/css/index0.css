@@ -1,0 +1,38 @@
+@import url('https://www.wallpapertip.com/wmimgs/33-331334_red-black-background-free-red-and-black-backgrounds.jpg');
+
+
+h1{
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background:url("https://www.wallpapertip.com/wmimgs/33-331334_red-black-background-free-red-and-black-backgrounds.jpg");
+    background-position: 0 1000px;
+    font-family:'Roboto',sans-serif;
+}
+
+p{
+   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#name{
+    color:white;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 8px;
+    margin-bottom: 1rem;
+}
+
+
+
+
+
